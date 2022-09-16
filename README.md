@@ -1,2 +1,3 @@
 # rsschool-cv
-Markdown &amp; Git
+The Rolling Scopes School task: **Markdown &amp; Git**
+*by @ruslanshabibulins*
